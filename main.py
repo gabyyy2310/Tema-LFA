@@ -220,6 +220,6 @@ def run_tests(tests):
 
 
 if __name__ == "__main__":
-    tests = load_tests('tests.json')  # path to your JSON test file
+    tests = load_tests('tests.json') 
     run_tests(tests)
 
