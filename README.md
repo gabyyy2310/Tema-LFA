@@ -20,6 +20,7 @@ Tests are automatically loaded from a JSON file and evaluated. Output is display
 ## 📁 Project Structure
 
 regex-matcher/
+
 │
 ├── main.py         ✅ Python code for validating a string against a regular expression  
 ├── tests.json      ✅ Test cases  
